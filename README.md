@@ -78,7 +78,7 @@ Important pricing detail (from `HourlyPricing`)
 
 ## Class Diagram
 
-![Class Diagram](./Multilevel%20Parking%20Lot/Multilevel%20Parking%20Lot.png)
+![Class Diagram](./Multilevel-Parking-Lot/Multilevel%20Parking%20Lot.png)
 
 ## Usage
 
