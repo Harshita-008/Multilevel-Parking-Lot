@@ -1,0 +1,4 @@
+enum SlotStatus {
+    AVAILABLE, 
+    OCCUPIED
+}
